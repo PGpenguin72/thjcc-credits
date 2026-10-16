@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+
+# Local reference repositories; each has its own upstream history.
+THJCC-Website/
+pokemon-cards-css/
